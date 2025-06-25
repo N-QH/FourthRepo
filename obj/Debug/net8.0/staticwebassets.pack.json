@@ -1,0 +1,281 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\cart-manager.html",
+      "PackagePath": "staticwebassets\\cart-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\category-manager.html",
+      "PackagePath": "staticwebassets\\category-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\discount-manager.html",
+      "PackagePath": "staticwebassets\\discount-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\order-detail-manager.html",
+      "PackagePath": "staticwebassets\\order-detail-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\order-manager.html",
+      "PackagePath": "staticwebassets\\order-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\payment-manager.html",
+      "PackagePath": "staticwebassets\\payment-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\product-discount-manager.html",
+      "PackagePath": "staticwebassets\\product-discount-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\product-manager.html",
+      "PackagePath": "staticwebassets\\product-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\repair-manager.html",
+      "PackagePath": "staticwebassets\\repair-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\review-manager.html",
+      "PackagePath": "staticwebassets\\review-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\shipping-manager.html",
+      "PackagePath": "staticwebassets\\shipping-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\user-manager.html",
+      "PackagePath": "staticwebassets\\user-manager.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\cart.html",
+      "PackagePath": "staticwebassets\\ustora\\cart.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\checkout.html",
+      "PackagePath": "staticwebassets\\ustora\\checkout.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ustora\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\ustora\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\ustora\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\ustora\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\ustora\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\brand1.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\brand1.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\brand2.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\brand2.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\brand3.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\brand3.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\brand4.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\brand4.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\brand5.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\brand5.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\brand6.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\brand6.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\crossword.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\crossword.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\h4-slide.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\h4-slide.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\h4-slide2.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\h4-slide2.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\h4-slide3.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\h4-slide3.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\h4-slide4.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\h4-slide4.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\h4-slide7.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\h4-slide7.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ustora\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\img\\product-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\ustora\\img\\product-thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\index.html",
+      "PackagePath": "staticwebassets\\ustora\\index.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\js\\bxslider.min.js",
+      "PackagePath": "staticwebassets\\ustora\\js\\bxslider.min.js"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\js\\jquery.easing.1.3.min.js",
+      "PackagePath": "staticwebassets\\ustora\\js\\jquery.easing.1.3.min.js"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\ustora\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\js\\main.js",
+      "PackagePath": "staticwebassets\\ustora\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\ustora\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\js\\script.slider.js",
+      "PackagePath": "staticwebassets\\ustora\\js\\script.slider.js"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\login.html",
+      "PackagePath": "staticwebassets\\ustora\\login.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\shop.html",
+      "PackagePath": "staticwebassets\\ustora\\shop.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\single-product.html",
+      "PackagePath": "staticwebassets\\ustora\\single-product.html"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\style.css",
+      "PackagePath": "staticwebassets\\ustora\\style.css"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\ucommerce-screen.jpg",
+      "PackagePath": "staticwebassets\\ustora\\ucommerce-screen.jpg"
+    },
+    {
+      "Id": "D:\\Huy CMC\\23IT-GM\\Ky 2\\Cong nghe lap trinh web\\BAITAP\\FinalAPIDoAn\\FinalAPIDoAn\\wwwroot\\ustora\\ustora.jpg",
+      "PackagePath": "staticwebassets\\ustora\\ustora.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalAPIDoAn.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalAPIDoAn.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalAPIDoAn.props",
+      "PackagePath": "build\\FinalAPIDoAn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalAPIDoAn.props",
+      "PackagePath": "buildMultiTargeting\\FinalAPIDoAn.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalAPIDoAn.props",
+      "PackagePath": "buildTransitive\\FinalAPIDoAn.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
